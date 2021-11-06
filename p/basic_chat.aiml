@@ -1,0 +1,18 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>HOLA</pattern>
+        <template>
+            HOLA ;) 
+        </template>
+    </category>
+    
+    <category>
+        <pattern>QUIEN ERES</pattern>
+        <template>
+            Yo soy Chatbote ESIMIO!
+        </template>
+    </category>    
+    
+</aiml>

@@ -1,0 +1,187 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>HOLA</pattern>
+        <template>
+            Hola, me presento soy Ivar, tu ayuda a distancia!
+	    Debido a ala emergencia sanitaria fui creado para poder
+            resolveralgunas dudas frecuentes acerca del COVID-19
+			adelante pregunta!!!
+        </template>
+    </category>
+
+    <category>
+        <pattern>COMO SE SI TENGO COVID</pattern>
+        <template>
+            Para esto deberias contar con al menos dos sintomas como los siguientes:
+
+Dificultad para respirar,
+Dolor de articulaciones,
+Dolor muscular,
+Dolor de garganta / ardor,
+Escurrimiento nasal,
+Dificultad para respirar,
+Enrojecimiento de ojos ,
+Dolor torácico,
+        </template>
+    </category>
+
+    <category>
+        <pattern>CÓMO SE PROPAGA Y CONTAGIA EL NUEVO CORONAVIRUS</pattern>
+        <template>
+            Puede transmitirse de una persona a otra, normalmente a través del aire, al toser y estornudar, por contacto cercano con ?personas infectadas o enfermas, o al tocar un objeto o superficie con el virus y luego tocarse la boca, la nariz o los ojos antes de lavarse las manos.
+        </template>
+    </category>
+
+    <category>
+        <pattern>COMO SE CONTAGIA EL COVID</pattern>
+        <template>
+            Puede transmitirse de una persona a otra, normalmente a través del aire, al toser y estornudar, por contacto cercano con ?personas infectadas o enfermas, o al tocar un objeto o superficie con el virus y luego tocarse la boca, la nariz o los ojos antes de lavarse las manos.
+        </template>
+    </category>
+
+    <category>
+        <pattern>COMO ME PUEDO CONTAGIAR</pattern>
+        <template>
+            Puede transmitirse de una persona a otra, normalmente a través del aire, al toser y estornudar, por contacto cercano con ?personas infectadas o enfermas, o al tocar un objeto o superficie con el virus y luego tocarse la boca, la nariz o los ojos antes de lavarse las manos.
+        </template>
+    </category>
+
+    <category>
+        <pattern>CUAL ES LA DIFERENCIA ENTRE SARS-COV-2 Y COVID-19</pattern>
+        <template>
+            El riesgo de contraer COVID-19 de alguien que no presente ningún síntoma es muy bajo. Sin embargo, muchas personas que contraen COVID-19 solo presentan síntomas leves. Por lo tanto, es posible contagiarse de alguien que, por ejemplo, solamente tenga una tos leve y no se sienta enfermo.
+	    
+        </template>
+    </category>
+    <category>
+        <pattern>ES POSIBLE CONTAGIARSE DE COVID-19 POR CONTACTO CON UNA PERSONA QUE NO PRESENTE NINGÚN SÍNTOMA</pattern>
+        <template>
+            El riesgo de contraer COVID-19 de alguien que no presente ningún síntoma es muy bajo. Sin embargo, muchas personas que contraen COVID-19 solo presentan síntomas leves. Por lo tanto, es posible contagiarse de alguien que, por ejemplo, solamente tenga una tos leve y no se sienta enfermo.
+        </template>    
+    </category>
+    <category>
+        <pattern>CUALES SON LOS SINTOMAS DEL NUEVO CORONAVIRUS</pattern>
+        <template>
+            Al menos dos de los siguientes signos y síntomas: Tos, fiebre o dolor de cabeza durante los últimos 7 días, acompañados de al menos uno de los siguientes:
+
+Dificultad para respirar
+Dolor de articulaciones
+Dolor muscular
+Dolor de garganta / ardor
+Escurrimiento nasal
+Dificultad para respirar
+Enrojecimiento de ojos 
+Dolor torácico
+        </template>
+    </category>
+ <category>
+        <pattern>SINTOMAS</pattern>
+        <template>
+            Al menos dos de los siguientes signos y síntomas: Tos, fiebre o dolor de cabeza durante los últimos 7 días, acompañados de al menos uno de los siguientes:
+
+Dificultad para respirar
+Dolor de articulaciones
+Dolor muscular
+Dolor de garganta / ardor
+Escurrimiento nasal
+Dificultad para respirar
+Enrojecimiento de ojos 
+Dolor torácico
+        </template>
+    </category>
+    <category>
+        <pattern>QUIÉN CORRE RIESGO DE DESARROLLAR UNA ENFERMEDAD GRAVE</pattern>
+        <template>
+            La evidencia hasta ahora recopilada, muestra que las personas mayores y las que padecen enfermedades crónicas (como hipertensión arterial, enfermedades cardiacas, obesidad o diabetes) desarrollan casos graves de la enfermedad con más frecuencia que otras.
+        </template>
+    </category>
+    <category>
+        <pattern>EXISTE ALGUNA VACUNA, MEDICAMENTO O TRATAMIENTO PARA LA COVID-19</pattern>
+        <template>
+            Al igual que con otras enfermedades respiratorias, la infección por el COVID-19 puede causar síntomas leves como dolor de ?garganta, tos y fiebre. En algunas ocasiones puede ser más grave y ?causar neumonía o dificultades respiratorias. Raras veces, la ?enfermedad puede ser mortal.
+        </template>
+    </category>
+    <category>
+        <pattern>QUÉ TAN PELIGROSO ES EL NUEVO CORONAVIRUS</pattern>
+        <template>
+            Al igual que con otras enfermedades respiratorias, la infección por el COVID-19 puede causar síntomas leves como dolor de ?garganta, tos y fiebre. En algunas ocasiones puede ser más grave y ?causar neumonía o dificultades respiratorias. Raras veces, la ?enfermedad puede ser mortal.
+        </template>
+    </category>
+    <category>
+        <pattern>CUÁNTO TIEMPO SOBREVIVE EL VIRUS CAUSANTE DE LA INFECCIÓN COVID-19 EN UNA SUPERFICIE</pattern>
+        <template>
+            El virus SARS-CoV-2 puede sobrevivir hasta 72 horas en plástico y superficies de acero inoxidable, como mesas de cocina, por eso es importante la limpieza y desinfección de áreas y objetos de uso común.
+        </template>
+    </category>
+    <category>
+        <pattern>CUANTO TIEMPO VIVE EL COVID EN LA SUPERFICIE</pattern>
+        <template>
+            El virus SARS-CoV-2 puede sobrevivir hasta 72 horas en plástico y superficies de acero inoxidable, como mesas de cocina, por eso es importante la limpieza y desinfección de áreas y objetos de uso común.
+        </template>
+    </category>
+    <category>
+        <pattern>CUÁNTO TIEMPO TRANSCURRE ENTRE LA INFECCIÓN Y LA APARICIÓN DE LOS SÍNTOMAS</pattern>
+        <template>
+            Las estimaciones actuales apuntan a que el tiempo que transcurre entre la infección y la aparición de los síntomas varía ?entre 1 y 12 días, con una media estimada de 5-6 días. Se estima que el periodo de incubación podría ser hasta de 14 días.
+        </template>
+    </category>
+    <category>
+        <pattern>LOS ANTIBIÓTICOS SON EFICACES PARA PREVENIR Y TRATAR LA INFECCIÓN PROVOCADA POR EL COVID-19</pattern>
+        <template>
+            No, los antibióticos no tienen efecto contra los virus, solo tienen efecto contra las infecciones bacterianas. La infección por COVID-19 es causada por un virus y, por lo tanto, no deben utilizarse antibióticos a modo de prevención o tratamiento.
+        </template>
+    </category>
+    <category>
+        <pattern>CUÁL ES LA DIFERENCIA ENTRE LA ENFERMEDAD OCASIONADA POR EL COVID-19 Y UNA GRIPE O UN RESFRIADO</pattern>
+        <template>
+            Los síntomas son similares, pero las infecciones los ?provocan virus diferentes. Debido a sus semejanzas, puede ser difícil ?determinar la enfermedad solamente a partir de los síntomas. Por ello, ?se requiere confirmar mediante pruebas de laboratorio si alguien está ?infectado por COVID-19
+        </template>
+    </category>
+ <category>
+        <pattern>COVID O GRIPE</pattern>
+        <template>
+            Los síntomas son similares, pero las infecciones los ?provocan virus diferentes. Debido a sus semejanzas, puede ser difícil ?determinar la enfermedad solamente a partir de los síntomas. Por ello, ?se requiere confirmar mediante pruebas de laboratorio si alguien está ?infectado por COVID-19
+        </template>
+    </category>
+
+    <category>
+        <pattern>HAY ALGUNA PRUEBA PARA EL COVID-19 QUE PUEDA COMPRAR PARA HACERME EN CASA</pattern>
+        <template>
+            En este momento, ninguna prueba para COVID-19 está disponible para su compra y para hacerse en casa.
+        </template>
+    </category>
+    <category>
+        <pattern>EXISTEN PRUEBAS RÁPIDAS DE DIAGNÓSTICO PARA COVID-19</pattern>
+        <template>
+           Por el momento, no hay pruebas rápidas certificadas para diagnosticar COVID-19.
+        </template>
+    </category>
+    <category>
+        <pattern>EL AJO PUEDE PREVENIR LA INFECCIÓN DEL NUEVO CORONAVIRUS</pattern>
+        <template>
+            NO. El ajo es un alimento saludable, pero no hay evidencia de que comer ajo proteja a las personas del nuevo coronavirus.
+
+        </template>
+    </category>
+    <category>
+        <pattern>LA VACUNA CONTRA LA INFLUENZA TAMBIÉN PROTEGE DEL NUEVO CORONAVIRUS</pattern>
+        <template>
+            No. La vacuna contra la influenza no brinda protección contra el nuevo coronavirus, este es tan nuevo y diferente que necesita su propia vacuna.
+        </template>
+    </category>
+    <category>
+        <pattern>LAS MASCOTAS PUEDEN TRASMITIR EL COVID-19</pattern>
+        <template>
+            No, no hay pruebas de que las ?mascotas como perros o gatos puedan contagiar o hayan sido infectados por el COVID-19.
+        </template>
+    </category>
+      <category>
+        <pattern>LAS MASCOTAS PUEDEN TRASMITIR EL COVID-19</pattern>
+        <template>
+            No, no hay pruebas de que las ?mascotas como perros o gatos puedan contagiar o hayan sido infectados por el COVID-19.
+        </template>
+    </category>
+
+</aiml>
